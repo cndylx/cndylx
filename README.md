@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-https://i.imgur.com/pkGaxOm.gif
+<img src="https://i.imgur.com/pkGaxOm.gif" height="300px" width="1300px"/>
 
 <!--
 **cndylx/cndylx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
